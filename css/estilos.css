@@ -1,0 +1,55 @@
+body
+{
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 150px;
+	font-family: Verdana;
+	text-align: justify;
+}
+
+img
+{
+	border: 2px solid black;
+	width: 170px;
+	height: auto;
+	float: right;
+	margin-left: 15px;
+	background-color: white;
+	padding: 10px;
+}
+
+header, nav h1
+{
+	margin-left: 22px;
+}
+
+hr
+{
+	margin-left: 0px;
+	height: 2px;
+	width: 100%;
+	text-align: left;
+	color: black;
+	background-color: black;
+}
+
+ul, li
+{
+	margin-left: 0px;
+}
+
+
+.pEmpresa
+{
+	margin-top: 30px;
+}
+
+.empresa
+{
+	float:left;
+}
+
+.data
+{
+	float:right;
+}
